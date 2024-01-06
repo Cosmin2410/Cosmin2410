@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cosmin Nae
 ==================================================================================================================================
 
-Front-End Developer
+Full Stack Developer
 -------------------
 
 Fell in love with programming 2 years ago, now building beautiful websites from ground up.
